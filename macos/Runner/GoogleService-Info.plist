@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>371640542440-8p7j1i0tv3uf6i19anf7au0jtn2cskbd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.371640542440-8p7j1i0tv3uf6i19anf7au0jtn2cskbd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>371640542440-ffbqpgtn11clmvhsj7kjmgfj5v9dg4u3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHbiR52Myj5vS3G2Uxn5rxnKXqrQvmpQ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>371640542440</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.meatzyLocalareaadmin</string>
+	<key>PROJECT_ID</key>
+	<string>meatzy-9f511</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meatzy-9f511.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:371640542440:ios:ce58c7322cf16799a8155d</string>
+</dict>
+</plist>
